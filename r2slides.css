@@ -1,0 +1,39 @@
+/*! R2 Slides v0.1.0 by Ste Allan */
+
+/* The container which holds the sliding content. Usually <ul> */
+.r2slides-list
+{
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+    
+    /* The sliding content. Usually <li> */
+    .r2slides-item
+    {
+      -webkit-backface-visibility: hidden;
+      position: absolute;
+      display: none;
+      width: 100%;
+      left: 0;
+      top: 0;
+    }
+
+    .r2slides-item:first-child
+    {
+      position: relative;
+      display: block;
+      float: left;
+    }
+        
+        .r2slides-img
+        {
+          display: block;
+          height: auto;
+          float: left;
+          width: 100%;
+          border: 0;
+        }
