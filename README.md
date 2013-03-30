@@ -5,25 +5,25 @@
 
 
 #### Features:
-* Originated in [ResponsiveSlides.js v1.53](https://github.com/viljamis/ResponsiveSlides.js)
- * Fully responsive
- * CSS3 transitions with JavaScript fallback
- * Simple markup using unordered list
- * Settings for transition and timeout durations
- * Multiple slideshows supported
- * Automatic and manual fade
- * Works in all major desktop and mobile browsers
- * Captions and other HTML elements supported inside slides
- * Separate pagination and next/prev controls
- * Possibility to choose where the controls append to
- * Possibility to randomize the order of the slides
- * Possibility to use custom markup for pagination
- * Can be paused while hovering slideshow and/or controls
- * Images can be wrapped inside links
- * Optional 'before' and 'after' callbacks
+##### Originated in [ResponsiveSlides.js v1.53](https://github.com/viljamis/ResponsiveSlides.js)
+* Fully responsive
+* CSS3 transitions with JavaScript fallback
+* Simple markup using unordered list
+* Settings for transition and timeout durations
+* Multiple slideshows supported
+* Automatic and manual fade
+* Works in all major desktop and mobile browsers
+* Captions and other HTML elements supported inside slides
+* Separate pagination and next/prev controls
+* Possibility to choose where the controls append to
+* Possibility to randomize the order of the slides
+* Possibility to use custom markup for pagination
+* Can be paused while hovering slideshow and/or controls
+* Images can be wrapped inside links
+* Optional 'before' and 'after' callbacks
 
-* Originated in [R2Slides.js](https://github.com/SteAllan/R2Slides.js)
- * Option to add pause/play button and set the text
+##### Originated in [R2Slides.js](https://github.com/SteAllan/R2Slides.js)
+* Option to add pause/play button and set the text
 
 
 
