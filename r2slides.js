@@ -1,4 +1,5 @@
 /*! R2 Slides v0.1.0
+ * https://github.com/SteAllan/R2Slides.js
  * Copyright (c) Ste Allan
  * Available under the MIT license
  *	
